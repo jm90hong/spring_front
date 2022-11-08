@@ -4,7 +4,8 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>Insert title here</title>
+	<title>나의 디자인 사이트</title>
+	<link rel="icon" href="./image/logo-icon.png">
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
 	<link rel="stylesheet" href="./css/app.css"/>
 	<script src="https://kit.fontawesome.com/9299056aff.js" crossorigin="anonymous"></script>
@@ -81,9 +82,9 @@
 			
 			<div class="col-4" style="padding:14px;">
 				<div class="info-card">
-					<img src="https://i.ytimg.com/vi/R-V4sw4b4t4/maxresdefault.jpg"/>
-					<span class="title-1">개발자 도구</span>
-					<span class="title-2">기계식 키보드</span>
+					<img src="https://blog.kakaocdn.net/dn/lbDT6/btq5pD1tzKS/oFYltYzJd4Bnt85HNlDHVK/img.jpg"/>
+					<span class="title-1">웹프론트</span>
+					<span class="title-2">#HTML #CSS #JS</span>
 					<p>
 						개발자의 하루일과 대부분이 코딩을 해요.
 						따라서 키보드가 타이핑 하기 좋아야 해요.
@@ -94,9 +95,9 @@
 			
 			<div class="col-4" style="padding:14px;">
 				<div class="info-card">
-					<img src="https://resources.jetbrains.com/storage/products/code-with-me/img/meta/preview.png"/>
-					<span class="title-1">프로그래밍언어</span>
-					<span class="title-2">자바, 자바스크립트</span>
+					<img src="https://miro.medium.com/max/900/1*o5FmjKTPdJTbhGE2MIjo6w.jpeg"/>
+					<span class="title-1">웹백엔드</span>
+					<span class="title-2">SPRING 프레임워크</span>
 					<p>
 						스프링을 하기위해선 기본적으로 자바언어를 알고 있어야 합니다.
 						따라서 키보드가 타이핑 하기 좋아야 해요.
@@ -105,11 +106,12 @@
 				</div>
 			</div>
 			
+			
 			<div class="col-4" style="padding:14px;">
 				<div class="info-card">
-					<img src="https://www.startechup.com/wp-content/uploads/radowan-nakif-rehan-cYyqhdbJ9TI-unsplash-1.jpg"/>
-					<span class="title-1">개발열정</span>
-					<span class="title-2">포기하지않기</span>
+					<img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/difference_between_sql_and_mysql.jpg"/>
+					<span class="title-1">데이터베이스</span>
+					<span class="title-2">mySQL</span>
 					<p>
 						개발자의 하루일과 대부분이 코딩을 해요.
 						따라서 키보드가 타이핑 하기 좋아야 해요.
@@ -118,6 +120,12 @@
 				</div>
 			</div>
 		</div>	
+	</div>
+	
+	
+	
+	<!-- coding todo   -->
+	<div class="section-container">
 	</div>
 	
 	
